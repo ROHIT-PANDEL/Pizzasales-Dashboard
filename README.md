@@ -37,5 +37,6 @@ Supporting data-driven decisions in marketing, inventory, and menu optimization.
   Business performance tracking for restaurants or food chains
   Inventory planning and demand forecasting
   Menu optimization and pricing strategy
-  Marketing campaign targeting based on category-wise popularity
+  Marketing campaign targeting based on category-wise popularity.
+
 

@@ -39,4 +39,7 @@ Supporting data-driven decisions in marketing, inventory, and menu optimization.
   Menu optimization and pricing strategy
   Marketing campaign targeting based on category-wise popularity.
 
+7.
+![Maze Game Screenshot](assets/maze-game.png)
+
 

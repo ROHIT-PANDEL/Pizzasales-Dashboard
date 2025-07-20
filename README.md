@@ -40,6 +40,6 @@ Supporting data-driven decisions in marketing, inventory, and menu optimization.
   Marketing campaign targeting based on category-wise popularity.
 
 7.
-![Maze Game Screenshot](assets[/maze-game.png](https://github.com/ROHIT-PANDEL/Pizzasales-Dashboard/blob/main/PIZZA%20SALES%20DASHBOARD.png?raw=true))
+![Dashboard](./assets/pizza-sales-dashboard.png)
 
 

@@ -40,6 +40,6 @@ Supporting data-driven decisions in marketing, inventory, and menu optimization.
   Marketing campaign targeting based on category-wise popularity.
 
 7.
-![Dashboard](./assets/pizza-sales-dashboard.png)
+![Dashboard](./assets/PIZZA SALES DASHBOARD.png)
 
 
